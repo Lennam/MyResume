@@ -50,7 +50,6 @@ export default {
         margin: 5px;
         border-radius: 5px;
       }
-
       html {
         perspective: 1000px;
         -webkit-perspective: 1000px;
