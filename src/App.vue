@@ -134,7 +134,7 @@ export default {
 
 我的GitHub和博客
 ----
-* <a href="https://lennam.github.io" target="_blank">GitHub</a>
+* <a href="https://github.com/Lennam" target="_blank">GitHub</a>
 * <a href="http://southernxtar.com" target="_blank">博客</a>
 
 自我介绍
